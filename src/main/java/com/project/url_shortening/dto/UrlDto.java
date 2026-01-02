@@ -15,7 +15,7 @@ public class UrlDto {
 
 	private UUID uuid;
 	private String url;
-	private String shorCode;
+	private String shortCode;
 	private String createdAt;
 	private String updatedAt;
 	private int accessCount;
